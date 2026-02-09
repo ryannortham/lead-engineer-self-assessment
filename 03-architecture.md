@@ -40,7 +40,7 @@ Took initiative to add integrations with the business's static analysis tools an
 
 **Outcome:** Stakeholders understood the solution and how it would fit into their existing workflows. The engagement was AWS-sponsored, reflecting confidence in the approach.
 
-![Presenting architecture at Wesfarmers](assets/wesfarmers-presentation.jpg)
+![Presenting architecture at Wesfarmers](assets/wesfarmers_presentation.jpg)
 
 ---
 
