@@ -6,49 +6,47 @@
 
 ## Evidence
 
-### Built team culture through regular engagement and open communication
+### Keeping standups focused
 
-**Context:** As QA Manager and Platform Lead in previous roles, I was responsible for creating an environment where team members felt supported and safe to raise issues.
+Standups can easily drift into long discussions, frustrating people who just want to get on with their work.
 
-**What I did:** Established regular 1:1 catchups with each team member to discuss career progression, resolve team issues, and provide a safe space for concerns. Hosted team meetings with project updates, shoutouts for good work, and knowledge sharing sessions. Made myself approachable and available.
+I'm confident enough to speak up and encourage the team to stay on track. When I notice things going off topic, I'll gently steer us back to the core format: what I did, what I'm doing, blockers. I encourage parking deeper discussions for afterwards, where interested people can stay. I model this by keeping my own updates short.
 
-**Outcome:** Team members felt comfortable raising issues early rather than hiding problems. Created a culture where people looked out for each other and celebrated successes together.
-
----
-
-### Facilitated retrospectives to drive continuous improvement
-
-**Context:** Retrospectives can become stale if run the same way every time. Teams disengage when they feel the format is going through the motions.
-
-**What I did:** Built a repertoire of retrospective formats to keep sessions engaging and draw out different perspectives – traffic light retros, 3 Ls (Liked, Learned, Lacked), Start/Stop/Continue, Mad/Sad/Glad. Selected formats based on what resonated with each team and the specific context of the sprint.
-
-**Outcome:** Teams stayed engaged in retrospectives and surfaced genuine improvements. The variety helped quieter team members contribute in different ways.
+This keeps standups efficient. People appreciate having their time respected while still having space for important conversations.
 
 ---
 
-### Guided teams toward effective standups and meetings
+### Building team culture through regular engagement
 
-**Context:** Stand-up meetings can easily go off on tangents and run long, reducing their value and frustrating team members.
+As QA Manager and Platform Lead, I was responsible for creating an environment where team members felt supported and could raise issues without fear.
 
-**What I did:** When I observed standups drifting, I guided the team back to the core format: what I did yesterday, what I'm doing today, blockers. Encouraged parking deeper discussions until the end, where interested people could choose to stay. Modelled the behaviour myself by keeping my updates concise.
+I ran regular 1:1s with each team member to discuss career progression, work through problems, and give them space to raise concerns. Held team meetings with project updates, shoutouts, and knowledge sharing. Made myself available and approachable.
 
-**Outcome:** Standups became efficient and focused. Team members appreciated having their time respected while still having space for important discussions.
+Team members raised issues early rather than hiding problems. We built a culture where people looked out for each other.
 
 ---
 
-### Empowered team members to own their solutions
+### Facilitating retrospectives that lead to action
 
-**Context:** When delegating work, it's tempting to prescribe exactly how something should be done – especially when you have a clear idea of the approach.
+It's easy for retros to become venting sessions where the team forgets to think about how to improve things. I make sure we come up with concrete action items with delegated ownership, and that we revisit progress on these in subsequent retros.
 
-**What I did:** Learned to step back and let team members propose their own solutions, even when different from how I would approach it. Highlighted risks I could see with their approach, but ultimately left the decision with them. Trusted that they would learn and iterate if the first attempt didn't work out.
+I also vary the format to keep sessions fresh and draw out different perspectives. Picking the right format based on what's happened that sprint helps quieter team members contribute in ways that suit them.
 
-**Outcome:** Team members felt ownership over their work rather than just following instructions. More often than not, they came back with solutions better than I would have expected. When things didn't work out, we learned together and iterated.
+---
+
+### Letting team members own their solutions
+
+When delegating, it's tempting to prescribe exactly how something should be done, especially when you already have an approach in mind.
+
+I've learned to step back and let people propose their own solutions, even when different from what I would do. I'll point out risks I can see, but leave the final decision with them. I trust that they'll learn and iterate if the first attempt doesn't work.
+
+This gives team members real ownership over their work rather than just following instructions. It often produces better outcomes than the approach I had in mind. When things don't work out, we learn together.
 
 ---
 
 ## Summary
 
-Establishing technical charter isn't about imposing rules – it's about creating conditions where teams can do their best work. My experience as a manager taught me that regular engagement, varied facilitation techniques, efficient meetings, and trusting people to own their solutions builds teams that deliver consistently.
+Establishing technical charter is about creating an environment where teams do good work. Regular engagement, efficient meetings, retrospectives that drive action, and trusting people to own their solutions builds teams that deliver consistently.
 
 ---
 

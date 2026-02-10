@@ -8,65 +8,59 @@
 
 ### Sought out as subject matter expert on AWS Bedrock AgentCore
 
-**Context:** After the Wesfarmers engagement, I had developed deep expertise in AWS Bedrock AgentCore and Strands Agents – a fairly new technology with limited experience across the industry.
+After the Wesfarmers engagement, I'd developed solid experience with AWS Bedrock AgentCore and Strands Agents, which is still fairly new technology with limited expertise across the industry.
 
-**What happened:** Another team within Mantel sought me out for advice on how to approach their project using Bedrock AgentCore and Strands Agents. They wanted to understand the technology's capabilities, limitations, and practical implementation patterns.
+Another team within Mantel reached out to me for advice on their project using the same technology. They wanted to understand capabilities, limitations, and practical implementation patterns.
 
-**Impact:** Was able to share learnings and help the team avoid pitfalls I'd encountered. Demonstrated that I'd developed expertise that was valuable beyond my immediate project.
-
-**Leadership demonstrated:** Being sought for opinions and guidance – a key measure of stakeholder trust.
+I was able to share what I'd learned and help them avoid pitfalls I'd encountered. It felt good to be the go-to person for something I'd invested time in learning.
 
 ---
 
-### Invited to present at AWS Melbourne offices for Wesfarmers
+### Invited to present at AWS Melbourne offices
 
-**Context:** The Wesfarmers engagement was sponsored by AWS, who recommended Mantel based on an existing relationship. We worked closely with AWS Professional Services and Wesfarmers throughout the project.
+The Wesfarmers engagement was sponsored by AWS, who recommended Mantel based on an existing relationship. We worked closely with AWS Professional Services and Wesfarmers throughout.
 
-**What happened:** Both AWS and Wesfarmers were impressed by the delivered solution. I was invited back to present the agentic canvas creation Slack bot to the broader Wesfarmers group at the AWS offices in Melbourne.
+Both AWS and Wesfarmers were happy with what we delivered. I was invited back to present the agentic canvas creation Slack bot to the broader Wesfarmers group at the AWS offices in Melbourne.
 
-**Impact:** The presentation extended the relationship beyond the immediate project. Showcased Mantel's capabilities to a wider audience within the client organisation.
+This extended the relationship beyond the immediate project and put Mantel in front of a wider audience within the client organisation.
 
-**Leadership demonstrated:** Trusted to represent Mantel to senior stakeholders; invited to share insights beyond the immediate engagement.
-
----
-
-### Built lasting relationship at Entain leading to team celebration
-
-**Context:** At Entain, I worked closely with the development manager throughout the TAB NZ terminals migration project.
-
-**What happened:** Formed a strong working relationship based on consistent delivery and open communication. After successful project completion, Entain invited our Mantel team to their celebration dinner in Brisbane – flying us up to meet their team, work from their office, and celebrate together.
-
-**Impact:** This went beyond a typical client-vendor relationship. The invitation reflected genuine appreciation and the personal connections built during the engagement.
-
-**Leadership demonstrated:** Built relationships that existed beyond day-to-day interactions; trusted and valued by the client.
+![Presenting at AWS Melbourne](assets/wesfarmers_presentation.jpg)
 
 ---
 
-### Presented project outcomes to Mantel Digital community
+### Built lasting relationship at Entain
 
-**Context:** After the Entain project, there was interest within Mantel Digital about the approach we'd taken and lessons learned.
+At Entain, I worked closely with the development manager throughout the TAB NZ terminals migration.
 
-**What I did:** Presented to the Mantel Digital group catchup, explaining the project approach, challenges faced, and successes achieved. Shared what worked and what we'd do differently.
+We formed a strong working relationship through consistent delivery and open communication. After successful project completion, Entain invited our Mantel team to their celebration dinner in Brisbane. They flew us up to meet their team, work from their office, and celebrate together.
 
-**Impact:** Knowledge shared across the organisation. Other teams could learn from our experience and apply relevant patterns to their own engagements.
+This went beyond a typical client-vendor relationship. The invitation reflected genuine appreciation and the connections we'd built during the engagement.
 
 ---
 
-### Extended engagement through successful delivery at Entain
+### Presented project outcomes to Mantel Digital
 
-**Context:** Mantel's initial engagement at Entain focused on the API uplift work. The client was uncertain whether the legacy system could be salvaged.
+After the Entain project, there was interest within Mantel Digital about our approach and lessons learned.
 
-**What happened:** After demonstrating that the API could be refactored successfully and delivering on the commitment, the client extended the contract to include the TAB NZ migration project – a significantly larger piece of work.
+I presented to the Mantel Digital group, explaining the project approach, challenges we faced, and what worked. Shared what we'd do differently next time.
 
-**Impact:** New business generated through trusted delivery. The client chose to expand the relationship rather than seek alternatives.
+This helped other teams learn from our experience and apply relevant patterns to their own work.
 
-**Leadership demonstrated:** Being offered new business – a key measure of stakeholder trust.
+---
+
+### Earned contract extension through delivery at Entain
+
+Mantel's initial engagement at Entain focused on the API uplift. The client was uncertain whether the legacy system could be salvaged.
+
+After demonstrating that the API could be refactored successfully and delivering on our commitment, the client extended the contract to include the TAB NZ migration. This was a significantly larger piece of work.
+
+The extension came from trusted delivery. The client chose to expand the relationship rather than look elsewhere.
 
 ---
 
 ## Summary
 
-Stakeholder relationships aren't built through grand gestures – they're built through consistent, trusted delivery and genuine engagement. My examples demonstrate the full spectrum: being sought for expertise, being invited to present to broader audiences, building personal connections with clients, sharing knowledge with peers, and earning contract extensions through delivery.
+Stakeholder relationships aren't built through grand gestures. They're built through consistent, trusted delivery and genuine engagement. Being sought for expertise, invited to present to broader audiences, building real connections with clients, sharing knowledge with peers, and earning contract extensions through delivery all demonstrate this.
 
 ---
 

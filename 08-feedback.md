@@ -35,4 +35,4 @@ If you've been asked to provide feedback for this self-assessment, please consid
 
 ---
 
-[← Back to README](README.md) | [Previous: Summary](08-summary.md)
+[← Back to README](README.md) | [Previous: Growth Areas](07-growth-areas.md) | [Next: Summary →](09-summary.md)

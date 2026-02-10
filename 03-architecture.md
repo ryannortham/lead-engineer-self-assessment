@@ -6,67 +6,63 @@
 
 ## Evidence
 
-### Assessed legacy system and recommended refactoring approach at Entain
+### Assessed legacy system and recommended approach at Entain
 
-**Context:** When I joined Entain, I was tasked with assessing an ageing public-facing API. The original maintainers had left, the codebase was complex with large functions, and there were no tests. The business doubted it could be extended in its current state. They were also building out GraphQL capabilities and wanted to explore whether to migrate.
+**Context:** When I joined Entain, I was asked to assess an ageing public-facing API. The original developers had left, the codebase had large, complex functions, and there were no tests. The business doubted it could be extended. They were also exploring GraphQL and wanted to know whether migration made sense.
 
-**What I did:** Produced a proof of concept replicating core functions of the legacy API using GraphQL. Ran performance testing to generate metrics comparing the two approaches. The results showed GraphQL was slower and added cognitive complexity without clear benefits for this use case.
+**What I did:** Built a proof of concept replicating core functions using GraphQL. Ran performance tests comparing the two approaches. Results showed GraphQL was slower and added complexity without clear benefits for this use case.
 
-Recommended an alternative approach: systematically refactor the existing API, introduce dependency injection, and add tests to verify we weren't introducing regressions. Presented findings and recommendation to the client.
+Recommended an alternative: systematically refactor the existing API, introduce dependency injection, and add tests to catch regressions. Presented findings and my recommendation to the client.
 
-**Outcome:** Client agreed with the recommendation and formed a team with three additional Mantel developers to complete the project. The refactoring was successful – the API became maintainable and extensible. Client satisfaction led to contract extension for the TAB NZ migration project.
-
-**Leadership demonstrated:** Assessed options, articulated pros/cons, made a recommendation, gained stakeholder buy-in, and enabled a team to execute the agreed approach.
+**Outcome:** The client agreed and formed a team with three additional Mantel developers to complete the work. The refactoring succeeded and the API became maintainable. Client satisfaction led to a contract extension for the TAB NZ migration.
 
 ---
 
-### Designed enterprise AI framework with minimal supervision at NAB
+### Designed enterprise AI framework at NAB
 
-**Context:** At NAB, I was responsible for designing a self-service AI framework largely independently. The key stakeholder was often busy and difficult to get time with, so I needed to make good decisions autonomously.
+**Context:** At NAB, I was responsible for designing a self-service AI framework largely on my own. The key stakeholder was often busy, so I needed to make good decisions without much oversight.
 
-**What I did:** Rather than inventing novel patterns, I aligned with existing Terraform and Jenkins patterns used by the business so my code would be easy for other teams to pick up and understand. Modelled the configuration and project structure after the AWS AgentCore starter kit to leverage familiar conventions.
+**What I did:** Rather than inventing new patterns, I aligned with existing Terraform and Jenkins conventions so other teams could pick it up easily. Modelled the project structure after the AWS AgentCore starter kit. Added integrations with the business's static analysis tools and included standard linting and testing frameworks.
 
-Took initiative to add integrations with the business's static analysis tools and included industry-standard linting and testing frameworks to ensure quality from the start.
-
-**Outcome:** Created a framework that other teams could adopt without extensive onboarding. The design decisions prioritised maintainability and alignment with existing practices over novelty.
+**Outcome:** Created a framework designed for adoption. Other teams can onboard without extensive hand-holding because it follows patterns they already know.
 
 ---
 
-### Presented technical architecture to stakeholders at Wesfarmers
+### Presented architecture at Wesfarmers
 
-**Context:** The Wesfarmers engagement was a six-week rapid prototype exploring AWS Bedrock AgentCore. Needed to communicate the solution architecture to both technical and business stakeholders.
+**Context:** The Wesfarmers engagement was a six-week rapid prototype exploring AWS Bedrock AgentCore. I needed to communicate the solution to both technical and business stakeholders.
 
-**What I did:** Designed the end-to-end architecture integrating Slack, Confluence, and SharePoint with the Bedrock-powered chatbot and proposal generation agent. Presented the architecture to stakeholders, explaining how the components fit together and the rationale for key decisions.
+**What I did:** Designed the end-to-end architecture integrating Slack, Confluence, and SharePoint with the Bedrock-powered chatbot and proposal generation agent. Presented the architecture to stakeholders, explaining how components fit together and the reasoning behind key decisions.
 
-**Outcome:** Stakeholders understood the solution and how it would fit into their existing workflows. The engagement was AWS-sponsored, reflecting confidence in the approach.
+**Outcome:** Stakeholders understood the solution and how it would fit their workflows. The engagement was AWS-sponsored, which reflected confidence in the approach.
 
 ![Presenting architecture at Wesfarmers](assets/wesfarmers_presentation.jpg)
 
 ---
 
-### Created API documentation to enable consumer onboarding at Entain
+### Created API documentation at Entain
 
-**Context:** The legacy Entain API had no formal documentation. New consumers had difficulty understanding how to integrate.
+**Context:** The legacy Entain API had no formal documentation. New consumers struggled to understand how to integrate.
 
-**What I did:** Retrofitted the API with automatically generated OpenAPI specification documentation. This provided a standard, machine-readable format that consumers could use to understand endpoints, request/response formats, and expected behaviours.
+**What I did:** Retrofitted the API with automatically generated OpenAPI specification. This gave consumers a standard, machine-readable format for endpoints, request/response formats, and expected behaviours.
 
-**Outcome:** New consumers could onboard to the integration easily without needing to reverse-engineer the codebase or rely on tribal knowledge.
+**Outcome:** New consumers could onboard without reverse-engineering the codebase or relying on tribal knowledge.
 
 ---
 
-### Completed comprehensive security review at NAB
+### Completed security review at NAB
 
-**Context:** The NAB AI framework project required security approval before proceeding. Enterprise AI workloads have significant security considerations.
+**Context:** The NAB AI framework required security approval before proceeding. Enterprise AI workloads have significant security considerations.
 
-**What I did:** Completed a 70+ page AI security review covering data handling, access controls, model governance, and compliance requirements. Worked through the bank's security review process to get the project approved.
+**What I did:** Completed a 70+ page AI security review covering data handling, access controls, model governance, and compliance requirements. Worked through the bank's security review process.
 
-**Outcome:** Project received security approval and could proceed. The documentation provided a reference for future AI initiatives.
+**Outcome:** Project received security approval and could proceed. The documentation provides a reference for future AI initiatives.
 
 ---
 
 ## Summary
 
-Architecture at the Lead level isn't just about technical design – it's about assessing options, making recommendations, gaining buy-in, and enabling teams to execute. My examples demonstrate this full cycle: from the Entain API assessment that led to a team forming around my recommendation, to the NAB framework designed for adoption, to presenting solutions at Wesfarmers.
+Architecture at Lead level isn't just technical design. It's assessing options, making recommendations, gaining buy-in, and enabling teams to execute. The Entain API assessment led to a team forming around my recommendation. The NAB framework was designed for adoption. The Wesfarmers presentation communicated complex decisions to non-technical stakeholders.
 
 ---
 
