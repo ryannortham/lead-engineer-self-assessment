@@ -12,7 +12,8 @@
 
 ## How to Provide Feedback
 
-If you've been asked to provide feedback for this self-assessment, please consider:
+If you've been asked to provide feedback for this self-assessment, please
+consider:
 
 - **Technical leadership** – guiding direction, making decisions
 - **Team enablement** – helping others, removing blockers
@@ -26,7 +27,7 @@ If you've been asked to provide feedback for this self-assessment, please consid
 ## Feedback Sources
 
 | Relationship | Name | Status |
-|--------------|------|--------|
+| :--- | :--- | :--- |
 | Tech Lead | | Pending |
 | Delivery Lead | | Pending |
 | Client Stakeholder | | Pending |
