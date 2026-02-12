@@ -9,18 +9,12 @@ I did it, adrenaline got the better of me. As a Lead, I should be more
 comfortable presenting to teams and clients, so this is something I'm actively
 working on.
 
-## Internal Initiatives
-
-I want to get more involved with initiatives beyond project delivery. I'm
-currently working with a team to produce an internal Python training course.
-This is a step toward contributing more broadly to Mantel and getting
-comfortable with a more visible role.
-
 ## Broader Influence
 
-Looking for opportunities to have impact beyond immediate project delivery. The
-Python training course is one example, and I'm keeping an eye out for other
-ways to contribute.
+I want to have more impact beyond immediate project delivery. I'm currently
+working with a team to produce an
+[internal Python training course](https://gitlab.mantelgroup.com.au/digital/training/python/python-training-course),
+and I'd like to get more involved in technical interviews.
 
 ## Frontend Development
 
@@ -38,6 +32,6 @@ AFL goal umpires to track game scores. I've really enjoyed the process of
 designing clean, attractive UX. I'm currently releasing it on the Google Play
 Store.
 
-![Scorecard Game Results](assets/scorecard_results.png)
+<img src="assets/scorecard_results.png" alt="Scorecard Game Results" width="300">
 
-[← Back to README](README.md) | [Previous: Delegation](06-delegation.md) | [Next: Feedback →](08-feedback.md)
+[← Back to README](README.md) | [Previous: Delegation](05-delegation.md) | [Next: Feedback →](07-feedback.md)

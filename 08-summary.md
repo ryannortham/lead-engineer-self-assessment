@@ -17,4 +17,4 @@ The thread through all of it is the same: I focus on enabling others to succeed,
 and I take ownership of outcomes beyond just the code. I'm ready for Lead
 Engineer.
 
-[← Back to README](README.md) | [Previous: Feedback](08-feedback.md)
+[← Back to README](README.md) | [Previous: Feedback](07-feedback.md)

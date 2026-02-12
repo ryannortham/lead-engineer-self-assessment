@@ -2,7 +2,7 @@
 
 > A Lead is accountable for the solution but responsibility should be shared
 > with the team. Leads must draw on others' expertise, create shared
-> standards, and ensure the project can continue if they're unavailable.
+> standards, and make sure the project can continue if they're unavailable.
 
 ## Developed a delegation approach as QA Manager and Platform Lead
 
@@ -34,26 +34,12 @@ The team was productive quickly. Each developer brought their own expertise and
 approach. The refactoring was completed successfully with shared ownership
 across the team.
 
-## Highlighted risks but let people decide
-
-When delegating, I've learned to resist the urge to prescribe exactly how
-something should be done.
-
-If I see risks with someone's proposed approach, I'll point them out. But I
-leave the final decision with them. If they want to try something different
-from what I would do, that's fine. They'll learn from it either way, and often
-they come back with something better than I'd expected.
-
-This connects to what I wrote about in
-[Technical Charter](02-technical-charter.md): the goal is for team members to
-feel ownership over their work, not just follow instructions.
-
 ## Built systems that don't depend on individuals
 
 At NAB, I designed the AI self-service framework specifically so teams wouldn't
 depend on me or the platform team. The templates, documentation, and automated
 pipelines mean anyone can spin up new applications without hand-holding. (More
-detail in [Enabling Delivery](04-enabling-delivery.md).)
+detail in [Enabling Delivery](03-enabling-delivery.md).)
 
 At Entain, I retrofitted OpenAPI documentation so the API was self-describing.
 Established testing patterns and coding conventions. Created a codebase that
@@ -69,4 +55,4 @@ People Guide role at Mantel. This involves supporting guidees through career
 development and being a sounding board for challenges they face. It's a natural
 extension of the mentoring I've done throughout my career.
 
-[← Back to README](README.md) | [Previous: Stakeholder Relationships](05-stakeholder-relationships.md) | [Next: Growth Areas →](07-growth-areas.md)
+[← Back to README](README.md) | [Previous: Stakeholder Relationships](04-stakeholder-relationships.md) | [Next: Growth Areas →](06-growth-areas.md)

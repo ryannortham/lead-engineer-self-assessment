@@ -57,11 +57,11 @@ done, especially when you already have an approach in mind.
 
 I've learned to step back and let people propose their own solutions, even when
 different from what I would do. I'll point out risks I can see, but leave the
-final decision with them. I trust that they'll learn and iterate if the first
+final decision with them. I trust them to learn and iterate if the first
 attempt doesn't work.
 
 This gives team members real ownership over their work rather than just following
 instructions. It often produces better outcomes than the approach I had in mind.
 When things don't work out, we learn together.
 
-[← Back to README](README.md) | [Previous: Career Journey](01-career-journey.md) | [Next: Architecture →](03-architecture.md)
+[← Back to README](README.md) | [Next: Architecture →](02-architecture.md)

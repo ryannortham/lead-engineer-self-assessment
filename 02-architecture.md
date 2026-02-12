@@ -75,4 +75,4 @@ presented it in graphs and tables via a web portal and Slack. This gave
 stakeholders the visibility they needed without manual effort, and allowed the
 migration team to focus on execution rather than status updates.
 
-[← Back to README](README.md) | [Previous: Technical Charter](02-technical-charter.md) | [Next: Enabling Delivery →](04-enabling-delivery.md)
+[← Back to README](README.md) | [Previous: Technical Charter](01-technical-charter.md) | [Next: Enabling Delivery →](03-enabling-delivery.md)

@@ -51,9 +51,9 @@ initiative going forward.
 ## Drove quality improvements at Entain
 
 The legacy Entain API had no tests, so any change risked regressions and slowed
-delivery. Automated testing wasn't part of the company's culture, but I worked
-with our team to convince them that the initial effort would pay off with faster,
-more confident delivery in the long run.
+delivery. Automated testing wasn't part of the company's culture. I didn't walk
+past it. I worked with our team to convince them that the initial effort would
+pay off with faster, more confident delivery in the long run.
 
 I championed a quality-first approach during the refactoring, introduced
 dependency injection to make the codebase testable, and established testing
@@ -75,8 +75,7 @@ before impacting users, and ongoing development became more efficient.
 
 At ANZ, I was tasked with assessing the scope of migrating CI pipelines from
 Bamboo to GitHub Actions. Analysis of the Bamboo database revealed hundreds of
-VMs running deployment agents across the bank, with limited understanding of
-ownership or purpose.
+VMs running Bamboo deployment agents across the bank, with limited understanding of ownership or purpose.
 
 I built scripts integrating with internal systems to surface this information
 and consolidated it into reports. This gave the bank visibility they'd never
@@ -84,4 +83,4 @@ had, enabled ~30% of the VMs to be deprovisioned, and reduced the risk profile
 for the migration. Identifying this early meant we could proceed with a clearer
 picture of what we were dealing with.
 
-[← Back to README](README.md) | [Previous: Architecture](03-architecture.md) | [Next: Stakeholder Relationships →](05-stakeholder-relationships.md)
+[← Back to README](README.md) | [Previous: Architecture](02-architecture.md) | [Next: Stakeholder Relationships →](04-stakeholder-relationships.md)

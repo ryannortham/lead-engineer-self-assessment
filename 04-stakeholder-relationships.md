@@ -67,4 +67,4 @@ and risk, not implementation details. Being trusted to present to this audience
 and answer their questions directly was a sign that I'd earned credibility
 through the work.
 
-[← Back to README](README.md) | [Previous: Enabling Delivery](04-enabling-delivery.md) | [Next: Delegation →](06-delegation.md)
+[← Back to README](README.md) | [Previous: Enabling Delivery](03-enabling-delivery.md) | [Next: Delegation →](05-delegation.md)
