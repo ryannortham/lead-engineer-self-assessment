@@ -1,10 +1,8 @@
 # Scaling Through Delegation
 
 > A Lead is accountable for the solution but responsibility should be shared
-> with the team. Leads must leverage others' expertise, create shared
+> with the team. Leads must draw on others' expertise, create shared
 > standards, and ensure the project can continue if they're unavailable.
-
----
 
 ## Developed a delegation approach as QA Manager and Platform Lead
 
@@ -13,16 +11,14 @@ do everything myself. I had to learn to delegate effectively.
 
 Over time I developed an approach that worked:
 
-- **Context** — explain why the work matters and how it fits the bigger picture
-- **Tools** — make sure people have access to what they need
-- **Timelines** — set realistic expectations with input from the team
-- **Expected results** — be clear about what success looks like
+- Give context on *why* the work matters and how it fits the bigger picture
+- Make sure they have the *authority* and *resources* they need
+- Set realistic *timelines* with their input
+- Be clear about *expected outcomes* and how we'll know it's done
 
 This gave team members autonomy within clear boundaries. They developed their
 skills and delivered quality work without constant oversight. The team could
 operate when I wasn't around.
-
----
 
 ## Onboarded and enabled team at Entain
 
@@ -38,8 +34,6 @@ The team was productive quickly. Each developer brought their own expertise and
 approach. The refactoring was completed successfully with shared ownership
 across the team.
 
----
-
 ## Highlighted risks but let people decide
 
 When delegating, I've learned to resist the urge to prescribe exactly how
@@ -51,10 +45,8 @@ from what I would do, that's fine. They'll learn from it either way, and often
 they come back with something better than I'd expected.
 
 This connects to what I wrote about in
-[Technical Charter](02-technical-charter.md) — the goal is for team members to
+[Technical Charter](02-technical-charter.md): the goal is for team members to
 feel ownership over their work, not just follow instructions.
-
----
 
 ## Built systems that don't depend on individuals
 
@@ -70,24 +62,11 @@ authors.
 
 Reducing dependency on individuals is a core part of scaling through delegation.
 
----
-
 ## People Guide at Mantel
 
 Building on my experience managing and mentoring team members, I've taken on a
 People Guide role at Mantel. This involves supporting guidees through career
 development and being a sounding board for challenges they face. It's a natural
 extension of the mentoring I've done throughout my career.
-
----
-
-## Summary
-
-Effective delegation isn't about offloading work. It's about enabling others to
-succeed. Providing context, trusting people to find their own solutions, and
-building systems that don't depend on any single individual. My management
-experience taught me these skills, and I continue to apply them at Mantel.
-
----
 
 [← Back to README](README.md) | [Previous: Stakeholder Relationships](05-stakeholder-relationships.md) | [Next: Growth Areas →](07-growth-areas.md)

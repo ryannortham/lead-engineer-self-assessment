@@ -4,8 +4,6 @@
 > success include being trusted to make decisions, being sought for opinions,
 > being offered new business, and providing unique insights.
 
----
-
 ## Sought out for AgentCore expertise
 
 After the Wesfarmers engagement, I'd developed solid experience with AWS Bedrock
@@ -15,8 +13,6 @@ advice on their project using the same technology. They wanted to understand
 capabilities, limitations, and practical implementation patterns. I was able to
 share what I'd learned and help them avoid pitfalls I'd encountered. It felt
 good to be the go-to person for something I'd invested time in learning.
-
----
 
 ## Invited to present at AWS Melbourne
 
@@ -30,8 +26,6 @@ audience within the client organisation.
 
 ![Presenting at AWS Melbourne](assets/wesfarmers_presentation.jpg)
 
----
-
 ## Built lasting client relationship at Entain
 
 At Entain, I worked closely with the development manager throughout the TAB NZ
@@ -41,8 +35,6 @@ invited our Mantel team to their celebration dinner in Brisbane. They flew us up
 to meet their team, work from their office, and celebrate together. This went
 beyond a typical client-vendor relationship. The invitation reflected genuine
 appreciation and the connections we'd built during the engagement.
-
----
 
 ## Shared learnings with Mantel Digital
 
@@ -54,8 +46,6 @@ our experience and apply relevant patterns to their own work.
 
 ![Presenting to Mantel Digital](assets/entain_presentation.jpg)
 
----
-
 ## Earned contract extension through delivery
 
 Mantel's initial engagement at Entain focused on the API uplift. The client was
@@ -65,16 +55,16 @@ client extended the contract to include the TAB NZ migration. This was a
 significantly larger piece of work. The extension came from trusted delivery. The
 client chose to expand the relationship rather than look elsewhere.
 
----
+## Presented to ANZ technical leadership
 
-## Summary
+The GitHub migration at ANZ was a high-profile project with many interested
+stakeholders. ANZ technical leadership and GitHub account managers needed
+visibility into progress and confidence that the migration was on track.
 
-Stakeholder relationships aren't built through grand gestures. They're built
-through consistent, trusted delivery and genuine engagement. Being sought for
-expertise, invited to present to broader audiences, building real connections
-with clients, sharing knowledge with peers, and earning contract extensions
-through delivery all demonstrate this.
-
----
+I presented the reporting dashboards and findings from my Bamboo analysis
+directly to these stakeholders. They were senior people who cared about outcomes
+and risk, not implementation details. Being trusted to present to this audience
+and answer their questions directly was a sign that I'd earned credibility
+through the work.
 
 [← Back to README](README.md) | [Previous: Enabling Delivery](04-enabling-delivery.md) | [Next: Delegation →](06-delegation.md)

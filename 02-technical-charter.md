@@ -4,18 +4,13 @@
 > includes accountability, blame-free culture, effective collaboration, and
 > decision-making.
 
----
-
 ## Forming new teams and establishing ways of working
 
-When a new team forms, it's important to establish clear ways of working early
-to get through the forming and storming phases efficiently. I facilitate
-discussions to agree on how the team wants to work together. This includes
-communication preferences (e.g., Slack vs. email), meeting cadences, and the
-agile processes that make sense for that specific engagement. This creates a
-shared understanding and psychological safety from the start.
-
----
+New teams need to get through the forming and storming phases before they can
+deliver effectively. I run discussions early to agree on how we want to
+work together: communication preferences, meeting cadences, and the agile
+processes that make sense for that specific engagement. Getting this right
+early creates shared understanding and psychological safety from the start.
 
 ## Keeping standups focused
 
@@ -31,8 +26,6 @@ updates short.
 This keeps standups efficient. People appreciate having their time respected
 while still having space for important conversations.
 
----
-
 ## Building team culture through regular engagement
 
 As QA Manager and Platform Lead, I was responsible for creating an environment
@@ -46,8 +39,6 @@ approachable.
 Team members raised issues early rather than hiding problems. We built a culture
 where people looked out for each other.
 
----
-
 ## Facilitating retrospectives that lead to action
 
 It's easy for retros to become venting sessions where the team forgets to think
@@ -58,8 +49,6 @@ retros.
 I also vary the format to keep sessions fresh and draw out different
 perspectives. Picking the right format based on what's happened that sprint
 helps quieter team members contribute in ways that suit them.
-
----
 
 ## Letting team members own their solutions
 
@@ -74,16 +63,5 @@ attempt doesn't work.
 This gives team members real ownership over their work rather than just following
 instructions. It often produces better outcomes than the approach I had in mind.
 When things don't work out, we learn together.
-
----
-
-## Summary
-
-Establishing technical charter is about creating an environment where teams do
-good work. Regular engagement, efficient meetings, retrospectives that drive
-action, and trusting people to own their solutions builds teams that deliver
-consistently.
-
----
 
 [← Back to README](README.md) | [Previous: Career Journey](01-career-journey.md) | [Next: Architecture →](03-architecture.md)

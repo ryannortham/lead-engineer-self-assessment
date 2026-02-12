@@ -4,8 +4,6 @@
 > pros/cons, influencing stakeholders to approve a path forward, and ensuring
 > cost/effort is justified.
 
----
-
 ## Assessed legacy system and recommended approach at Entain
 
 When I joined Entain, I was asked to assess an ageing public-facing API. The
@@ -18,13 +16,11 @@ performance tests comparing the two approaches. The results showed GraphQL was
 slower and added complexity without clear benefits for this use case. I
 recommended an alternative: systematically refactor the existing API, introduce
 dependency injection, and add tests to catch regressions. I presented my
-findings and the recommendation to the client, who agreed and formed a team with
-three additional Mantel developers to complete the work.
+findings and the recommendation to the client, who agreed and formed a team to
+complete the work.
 
 The refactoring succeeded, the API became maintainable, and client satisfaction
 led to a contract extension for the TAB NZ migration.
-
----
 
 ## Designed enterprise AI framework at NAB
 
@@ -38,8 +34,6 @@ standard linting and testing frameworks.
 
 This resulted in a framework designed for adoption. Other teams can onboard
 without extensive hand-holding because it follows patterns they already know.
-
----
 
 ## Presented architecture at Wesfarmers
 
@@ -55,8 +49,6 @@ engagement was AWS-sponsored, which reflected confidence in the approach.
 
 ![Presenting architecture at Wesfarmers](assets/wesfarmers_presentation.jpg)
 
----
-
 ## Created API documentation and completed security review
 
 At Entain, the legacy API had no formal documentation, so new consumers struggled
@@ -71,17 +63,16 @@ access controls, model governance, and compliance requirements, working through
 the bank's security review process. The project received security approval and
 the documentation now provides a reference for future AI initiatives.
 
----
+## Designed reporting solution for GitHub migration at ANZ
 
-## Summary
+ANZ was migrating thousands of repositories from legacy source control to GitHub
+Enterprise. A high-stakes project with many interested stakeholders. The bank's
+risk aversion meant leadership and GitHub account managers needed real-time
+visibility into progress.
 
-The common thread across these examples is that architecture decisions don't
-matter if nobody acts on them. At Entain, my recommendation only had impact
-because I earned the client's trust and a team formed around it. At NAB, the
-framework only works if other teams can pick it up without me. Getting the
-technical design right is important, but getting people on board is what turns
-a recommendation into a result.
-
----
+I designed and built an automated reporting bot that collated migration data and
+presented it in graphs and tables via a web portal and Slack. This gave
+stakeholders the visibility they needed without manual effort, and allowed the
+migration team to focus on execution rather than status updates.
 
 [← Back to README](README.md) | [Previous: Technical Charter](02-technical-charter.md) | [Next: Enabling Delivery →](04-enabling-delivery.md)

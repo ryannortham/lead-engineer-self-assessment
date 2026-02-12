@@ -2,13 +2,9 @@
 
 > Testimonials from colleagues and stakeholders.
 
----
-
 ## Testimonials
 
 *[Awaiting feedback from colleagues and stakeholders]*
-
----
 
 ## How to Provide Feedback
 
@@ -22,8 +18,6 @@ consider:
 - **Ownership** – accountability beyond assigned tasks
 - **Impact** – measurable outcomes or improvements
 
----
-
 ## Feedback Sources
 
 | Relationship | Name | Status |
@@ -33,7 +27,5 @@ consider:
 | Client Stakeholder | | Pending |
 | Team Member | | Pending |
 | People Guide | | Pending |
-
----
 
 [← Back to README](README.md) | [Previous: Growth Areas](07-growth-areas.md) | [Next: Summary →](09-summary.md)
